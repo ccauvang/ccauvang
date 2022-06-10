@@ -6,8 +6,8 @@
 ***
 ### Github start
 
-![](https://github-readme-stats.vercel.app/api?username=ccauvang&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ccauvang&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ccauvang&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ccauvang&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ***
 #### JS 
@@ -21,3 +21,4 @@
 <a href="https://github.com/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white height="40"/>
 </a>  
+
