@@ -1,6 +1,11 @@
-
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=5000&pause=2000&color=58F7B4&center=true&vCenter=true&width=200&height=40&lines=Hello+Bro!" alt="Typing SVG" /></a>
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=3600000&color=9FF740&center=true&vCenter=true&width=200&height=40&lines=About Me %E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+</div>
 
 ***
+
 <div align="center">
   <p> <b> Hi I am cauvang :shipit: </b> <br> <b> I'm a studen from Vietnam</b> 🔥 <br> <b>I'm 18+</b> </p>
 <img src="https://user-images.githubusercontent.com/90708399/172577567-2de87cc6-0ef6-43ea-a19b-1f4b87dd9b1e.gif" height="400" width="400"  />
