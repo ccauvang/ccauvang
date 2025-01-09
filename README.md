@@ -7,7 +7,7 @@
 ***
 
 <div align="center">
-  <p> <b> Hi I am cauvang :shipit: </b> <br> <b> I'm a studen from Vietnam</b> 🔥 <br> <b>I'm 18+</b> </p>
+  <p> <b> Hi I am cauvang :shipit: </b> <br> <b> I'm a student from Vietnam</b> 🔥 <br> <b>I'm 18+</b> </p>
 <img src="https://user-images.githubusercontent.com/90708399/172577567-2de87cc6-0ef6-43ea-a19b-1f4b87dd9b1e.gif" height="400" width="400"  />
 </div>
 
