@@ -15,7 +15,7 @@
 ### Github stats
 
 <div align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ccauvang&layout=compact&theme=radical"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ccauvang&layout=compact&langs_count=5&hide_values=true&theme=radical"/>
 </div>
 
 ### ❤️‍🔥❤️‍🔥❤️‍🔥
